@@ -1,4 +1,4 @@
-# Project9-hospital-customer-satisfaction-prediction
+# Project9-hospital-patient-satisfaction-prediction
 
 This is a data science project using python with the main objective to use machine learning to predict if the hospital patient will give a good rating
 
